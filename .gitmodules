@@ -1,0 +1,6 @@
+[submodule "Sql-Online-Judge-Server"]
+	path = Sql-Online-Judge-Server
+	url = git@github.com:ImportMengjie/Sql-Online-Judge-Server.git
+[submodule "Sql-Online-Judge-Front"]
+	path = Sql-Online-Judge-Front
+	url = git@github.com:ImportMengjie/Sql-Online-Judge-Front.git
